@@ -1,0 +1,21 @@
+# Compiled class files
+/target/
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+
+# IDE specific files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+
+# Maven
+.mvn/
